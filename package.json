@@ -1,6 +1,6 @@
 {
   "name": "kr-phone-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Korean Phone Regex Npm Deploy",
   "main": "index.js",
   "scripts": {
