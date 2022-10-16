@@ -1,0 +1,32 @@
+{
+  "name": "kr-phone-regex",
+  "version": "1.0.0",
+  "description": "Korean Phone Regex Npm Deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caputdraconis050630/kr-phone-regex.git"
+  },
+  "keywords": [
+    "phone-regex",
+    "korean",
+    "phone",
+    "regex",
+    "kr phone"
+  ],
+  "author": "guntakkim",
+  "license": "MIT",
+  "files": [
+    "index"
+  ],
+  "bin": {
+    "test": "bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/caputdraconis050630/kr-phone-regex/issues"
+  },
+  "homepage": "https://github.com/caputdraconis050630/kr-phone-regex#readme"
+}
